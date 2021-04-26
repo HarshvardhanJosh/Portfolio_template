@@ -1,7 +1,10 @@
 # Portfolio_template
+
 A customizable multi-page personal portfolio website template built with HTML5/CSS3 and SASS.
 
 To implement the Netlify Form, uncomment the code lines in the contact.html file and follow the instructions.
+
+# Useful Resources-
 
 1.Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
 
@@ -12,4 +15,3 @@ To implement the Netlify Form, uncomment the code lines in the contact.html file
 4.Font Awesome Icon - https://fontawesome.com/
 
 5.Google Fonts- https://fonts.google.com/
-
