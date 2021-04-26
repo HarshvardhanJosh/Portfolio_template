@@ -4,11 +4,8 @@ A customizable multi-page personal portfolio website template built with HTML5/C
 
 To implement the Netlify Form, uncomment the code lines in the contact.html file and follow the instructions.
 
-<<<<<<< HEAD
+
 # Useful Resources-
-=======
-Useful Resources-
->>>>>>> 31520856f53e448ffd34bf7a8f1612efe02b8555
 
 1.Brad Traversy-Traversy Media https://www.youtube.com/user/TechGuyWeb
 
